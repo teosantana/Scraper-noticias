@@ -1,5 +1,5 @@
 
-# Crawler de Notícias dos Municípios Baianos
+# Scraper de Notícias dos Municípios Baianos
 
 Script automatizado para monitoramento de notícias relacionadas a corrupção, fraudes, operações policiais e irregularidades em municípios da Bahia através do Google News. Desenvolvido para apoiar o trabalho de análise do Tribunal de Contas dos Municípios da Bahia (TCM-BA).
 
